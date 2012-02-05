@@ -1,4 +1,4 @@
-このプロジェクトは、Gihyo.jp「Jettyで始めるWebSocket超入門」を最新仕様（2012/02/05現在）に合わせて修正した物です。
+このプロジェクトは、Gihyo.jpさんの「Jettyで始めるWebSocket超入門」を最新仕様（2012/02/05現在）に合わせて修正した物です。
 WebSocketのコードはJettyの解説ページ(Jetty/Feature/WebSockets)を参照しました。
 
 Jettyで始めるWebSocket超入門
