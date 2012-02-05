@@ -1,0 +1,12 @@
+このプロジェクトは、Gihyo.jp「Jettyで始めるWebSocket超入門」を最新仕様（2012/02/05現在）に合わせて修正した物です。
+WebSocketのコードはJettyの解説ページ(Jetty/Feature/WebSockets)を参照しました。
+
+Jettyで始めるWebSocket超入門
+- http://gihyo.jp/dev/feature/01/websocket
+Jetty/Feature/WebSockets
+http://wiki.eclipse.org/Jetty/Feature/WebSockets
+
+記事との差分：
+	Jetty - 7.5.4.v20111024 を使用
+	MyWebSocket - インターフェースをWebSocket.OnTextMessageへ変更
+	common.js - リスナーの追加方法を変更
